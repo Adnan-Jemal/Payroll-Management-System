@@ -1,0 +1,13 @@
+Pay Slip
+======================================
+Employee: Jane Doe
+Department: Marketing
+Pay Date: December 25, 2024
+
+Salary Breakdown:
+Basic Salary: $6,000.00
+Bonus: $600.00
+Tax: $600.00
+Deductions: $120.00
+Net Salary: $5,880.00
+======================================

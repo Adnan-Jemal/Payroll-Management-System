@@ -1,0 +1,13 @@
+Pay Slip
+======================================
+Employee: elu mandefro
+Department: bio
+Pay Date: December 25, 2024
+
+Salary Breakdown:
+Basic Salary: $10,000,000.00
+Bonus: $100,000.00
+Tax: $20.00
+Deductions: $10,000.00
+Net Salary: $10,089,980.00
+======================================

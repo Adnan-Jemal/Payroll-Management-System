@@ -1,0 +1,13 @@
+Pay Slip
+======================================
+Employee: arsema arsema
+Department: cs
+Pay Date: December 25, 2024
+
+Salary Breakdown:
+Basic Salary: $20,000.00
+Bonus: $2,999.00
+Tax: $100.00
+Deductions: $500.00
+Net Salary: $22,399.00
+======================================

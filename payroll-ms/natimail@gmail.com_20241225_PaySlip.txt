@@ -1,0 +1,13 @@
+Pay Slip
+======================================
+Employee: fessh nati
+Department: software---
+Pay Date: December 25, 2024
+
+Salary Breakdown:
+Basic Salary: $2,000.00
+Bonus: $220.00
+Tax: $10.00
+Deductions: $50.00
+Net Salary: $2,160.00
+======================================

@@ -1,0 +1,13 @@
+Pay Slip
+======================================
+Employee: John Doe
+Department: Engineering
+Pay Date: December 25, 2024
+
+Salary Breakdown:
+Basic Salary: $4,500.00
+Bonus: $400.00
+Tax: $450.00
+Deductions: $90.00
+Net Salary: $4,360.00
+======================================
